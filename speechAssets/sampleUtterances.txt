@@ -1,0 +1,14 @@
+GetCooking a fact
+GetCooking a space fact
+GetCooking tell me a fact
+GetCooking tell me a space fact
+GetCooking give me a fact
+GetCooking give me a space fact
+GetCooking tell me trivia
+GetCooking tell me a space trivia
+GetCooking give me trivia
+GetCooking give me a space trivia
+GetCooking give me some information
+GetCooking give me some space information
+GetCooking tell me something
+GetCooking give me something
